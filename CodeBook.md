@@ -34,3 +34,13 @@ Id.          Activity
 4            SITTING
 5           STANDING
 6             LAYING
+
+
+The code runs as follow:
+
+> We read from the specified data files
+> we merge the data by column and merge the dataset by rows
+> we then use grep to locate mean/std from the features names
+> we change the description to characters
+> we made some changes to the name of the features to make them more descriptive
+> we calculate mean across activities
