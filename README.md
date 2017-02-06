@@ -12,5 +12,5 @@ This is a part of the assignment, and focusses on these parts below:
 Steps:
 
 1. Download the data and keep it on your local drive
-2. change the workign dir using setwd(<path to this location where u have downloaded expanded the downloaded file>)
+2. change the working dir using setwd(<path to this location where u have downloaded expanded the downloaded file>)
 3. The Script can be executed, at the same level at "UCI HAR Dataset" folder.
