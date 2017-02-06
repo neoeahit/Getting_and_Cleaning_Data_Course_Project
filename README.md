@@ -9,4 +9,8 @@ This is a part of the assignment, and focusses on these parts below:
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-The Script can be executed, at the same level at "UCI HAR Dataset" folder.
+Steps:
+
+> Download the data and keep it on your local drive
+> change the workign dir using setwd(<path to this location where u have downloaded expanded the downloaded file>)
+> The Script can be executed, at the same level at "UCI HAR Dataset" folder.
