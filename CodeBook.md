@@ -1,6 +1,7 @@
 This code book  describes the variables, the data, and any transformations or work that were performed to clean up the data 
  
- ## Measurements
+ # Average Value of across Subject/Activity computed for
+ 
   "Subject"                             "Activity"                            "TimeBodyAcc-mean()-X"               
  "TimeBodyAcc-mean()-Y"                "TimeBodyAcc-mean()-Z"                "TimeBodyAcc-std()-X"                
   "TimeBodyAcc-std()-Y"                 "TimeBodyAcc-std()-Z"                 "TimeGravityAcc-mean()-X"            
@@ -25,7 +26,7 @@ This code book  describes the variables, the data, and any transformations or wo
  "FrequencyBodyBodyAccJerkMag-std()"   "FrequencyBodyBodyGyroMag-mean()"     "FrequencyBodyBodyGyroMag-std()"     
  "FrequencyBodyBodyGyroJerkMag-mean()" "FrequencyBodyBodyGyroJerkMag-std()" 
 
-## Activity includes
+# Activity includes
 
 Id.          Activity
 1            WALKING
