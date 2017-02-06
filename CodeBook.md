@@ -39,9 +39,9 @@ Id.          Activity
 
 The code runs as follow:
 
-> We read from the specified data files
-> we merge the data by column and merge the dataset by rows
-> we then use grep to locate mean/std from the features names
-> we change the description to characters. The names are already very descriptive, so it dosent seem necessary to change them more.
-> we made some changes to the name of the features to make them more descriptive
-> we calculate mean across activities/subjects.
+1. We read from the specified data files
+2. we merge the data by column and merge the dataset by rows
+3. we then use grep to locate mean/std from the features names
+4. we change the description to characters. The names are already very descriptive, so it dosent seem necessary to change them more.
+5. we made some changes to the name of the features to make them more descriptive
+6. we calculate mean across activities/subjects.
